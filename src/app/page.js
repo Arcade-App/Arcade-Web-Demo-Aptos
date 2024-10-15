@@ -29,12 +29,12 @@ export default function Home() {
                 rel="noopener noreferrer"
               >
 
-                <i className="bx bxl-github" style={{ fontSize: '20px' }} ></i>
-                Github
+                <i className='bx bx-play-circle' style={{ fontSize: '20px' }}></i>
+                App Demo
               </Link>
               <Link
                 className="flex items-center gap-2 hover:text-arcade-400"
-                href="https://x.com/harshbadhai28"
+                href="https://x.com/arcadedotapp"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -62,7 +62,7 @@ export default function Home() {
             <div className=" gap-x-12 ring-1 ring-inset rounded-full ring-green-500">
               <Link
                 className="flex items-center place-items-start gap-2 px-5 text-green-500 font-medium py-1"
-                href="https://explorer.aptoslabs.com/?network=devnet"
+                href="https://explorer.aptoslabs.com/account/0xf34803cc73b099b1a5b4a6d395ec19a2a282cb8467bde41f684da65321134348/transactions?network=testnet"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -83,14 +83,14 @@ export default function Home() {
           <div className="flex gap-4 justify-center items-center flex-row py-6 px-5 ">
             <Link
               className="w-1/2 sm:w-1/4 font-bold rounded-md border border-solid border-transparent transition-colors flex items-center justify-center bg-arcade-400 text-background gap-2 hover:bg-arcade-500 text-md  h-12"
-              href="/webapp"
+              href="/app"
 
             >
               Enter App
             </Link>
             <Link
               className=" w-1/2 sm:w-1/4 font-bold rounded-md border border-solid border-white transition-colors flex items-center justify-center bg-transparent text-white gap-2  hover:bg-white hover:text-background text-md h-12"
-              href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
+              href="https://drive.google.com/file/d/1Ei2ItcMx4fs88ksLJwdeRi_e9OhhEyqY/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
             >
