@@ -62,7 +62,7 @@ export default function Home() {
             <div className=" gap-x-12 ring-1 ring-inset rounded-full ring-green-500">
               <Link
                 className="flex items-center place-items-start gap-2 px-5 text-green-500 font-medium py-1"
-                href="https://explorer.aptoslabs.com/account/0xf34803cc73b099b1a5b4a6d395ec19a2a282cb8467bde41f684da65321134348/transactions?network=testnet"
+                href="https://explorer.aptoslabs.com/account/0xf34803cc73b099b1a5b4a6d395ec19a2a282cb8467bde41f684da65321134348/modules/code/tourn8?network=testnet"
                 target="_blank"
                 rel="noopener noreferrer"
               >
