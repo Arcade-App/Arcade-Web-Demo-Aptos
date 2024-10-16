@@ -24,7 +24,7 @@ export default function Home() {
             <div className="flex gap-x-12">
               <Link
                 className="flex items-center gap-2 hover:text-arcade-400"
-                href="https://github.com/Arcade-App"
+                href="https://youtu.be/1rCOWKMpNxQ"
                 target="_blank"
                 rel="noopener noreferrer"
               >
